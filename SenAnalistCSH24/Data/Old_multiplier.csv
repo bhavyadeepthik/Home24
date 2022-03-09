@@ -1,0 +1,703 @@
+country,main_cat,sub_cat1,old_mult
+AT,polster,relaxliegen,1.08
+AT,esszimmerstühle&bänke,n/a,1.07
+AT,haushalt,mülleimer,1.02
+AT,heimtextilien,bettdecken & kopfkissen,1.12
+AT,polster,ecksofas,1.08
+AT,baby,wickelkommoden & zubehör,1.05
+AT,polster,schlafsofas,1.08
+AT,schlafzimmermöbel,schlafzimmersets,1.12
+AT,teppiche & bodenbeläge,n/a,1.09
+AT,esszimmertische,essgruppen,1.1
+AT,teppiche & bodenbeläge,läufer,1.09
+AT,heimtextilien,badematten & badteppiche,1.12
+AT,leuchten,außenleuchten,1.03
+AT,schlafzimmermöbel,kommoden,1.12
+AT,boutique,badaccessoires,1.03
+AT,büro,n/a,1.06
+AT,kinder,schränke & zubehör,1.08
+AT,polster,wohnlandschaften,1.08
+AT,teppiche & bodenbeläge,fellteppiche,1.09
+AT,esszimmertische,bartische,1.1
+AT,leuchten,zubehör,1.03
+AT,haushalt,kannen & krüge,1.02
+AT,haushalt,geschirr,1.02
+AT,baby,hochstühle & zubehör,1.05
+AT,büro,bürostühle,1.06
+AT,heimtextilien,tagesdecken & plaids,1.12
+AT,wohnen,spiegel,1.09
+AT,heimtextilien,duschvorhänge,1.12
+AT,esszimmertische,bar,1.1
+AT,baby,betten,1.05
+AT,flurmöbel,garderoben,1.07
+AT,polster,polstergarnituren & sets,1.08
+AT,garten,gartentische,1.13
+AT,leuchten,innenleuchten,1.03
+AT,polster,sessel,1.08
+AT,matratzen&lattenroste,matratzen,1.08
+AT,betten,zubehör,1.12
+AT,bad,badset,1.1
+AT,polster,einzelsofas,1.08
+AT,betten,bettgestelle,1.12
+AT,büro,sekretäre,1.06
+AT,baby,komplettprogramme & sets,1.05
+AT,wohnen,tv-mediamöbel,1.09
+AT,garten,garten loungemöbel,1.13
+AT,kinder,sitzgelegenheiten,1.08
+AT,boutique,wandekoration,1.03
+AT,kinder,kommoden,1.08
+AT,wohnen,vitrinen & schränke,1.09
+AT,polster,zubehör,1.08
+AT,heimtextilien,handtücher,1.12
+AT,teppiche & bodenbeläge,fuß- & sauberlaufmatten,1.09
+AT,polster,recamieren,1.08
+AT,esszimmertische,esstische,1.1
+AT,wohnen,regale,1.09
+AT,betten,gästebetten,1.12
+AT,bad,n/a,1.1
+AT,esszimmerstühle&bänke,bänke,1.07
+AT,haushalt,küchenaufbewahrung,1.02
+AT,heimtextilien,bettwäsche,1.12
+AT,teppiche & bodenbeläge,hochflorteppiche & shaggys,1.09
+AT,boutique,gartenaccessoires,1.03
+AT,teppiche & bodenbeläge,kurzflorteppiche,1.09
+AT,wohnen,n/a,1.09
+AT,betten,boxspringbetten,1.12
+AT,schlafzimmermöbel,kleiderschränke & zubehör,1.12
+AT,kinder,regale,1.08
+AT,polster,sitzwürfel & polsterhocker,1.08
+AT,teppiche & bodenbeläge,kinderteppiche,1.09
+AT,heimtextilien,kissen,1.12
+AT,esszimmertische,n/a,1.1
+AT,polster,bigsofas,1.08
+AT,esszimmertische,barset,1.1
+AT,bad,spiegel,1.1
+AT,garten,gartenzubehör,1.13
+AT,haushalt,küchenutensilien,1.02
+AT,schlafzimmermöbel,nachtkommoden,1.12
+AT,esszimmerstühle&bänke,barhocker,1.07
+AT,schlafzimmermöbel,schminktische,1.12
+AT,wohnen,kamine,1.09
+AT,schlafzimmermöbel,n/a,1.12
+AT,matratzen&lattenroste,lattenroste,1.08
+AT,garten,gartenliege,1.13
+AT,schlafzimmermöbel,bettbänke&betttruhen,1.12
+AT,baby,regale,1.05
+AT,kinder,n/a,1.08
+AT,flurmöbel,schuhschränke,1.07
+AT,boutique,aufbewahrung,1.03
+AT,büro,büroschränke,1.06
+AT,esszimmertische,buffets,1.1
+AT,garten,komplettprogramme & sets,1.13
+AT,wohnen,kommoden & sideboards,1.09
+AT,heimtextilien,tischwäsche,1.12
+AT,boutique,n/a,1.03
+AT,bad,badregale,1.1
+AT,baby,schränke,1.05
+AT,matratzen&lattenroste,matratzentopper,1.08
+AT,kinder,aufbewahrung,1.08
+AT,haushalt,gläser,1.02
+AT,garten,bänke & hocker,1.13
+AT,büro,büro-komplettsets,1.06
+AT,teppiche & bodenbeläge,wollteppiche,1.09
+AT,bad,badschränke,1.1
+AT,wohnen,tische,1.09
+AT,boutique,dekoration,1.03
+AT,kinder,betten & zubehör,1.08
+AT,boutique,saisonartikel weihnachten,1.03
+AT,boutique,duftartikel,1.03
+AT,haushalt,barzubehör,1.02
+AT,flurmöbel,n/a,1.07
+AT,kinder,tische & zubehör,1.08
+AT,garten,gartenstühle,1.13
+AT,kinder,nachttische,1.08
+AT,matratzen&lattenroste,matratzen/lattenrost-sets,1.08
+AT,baby,n/a,1.05
+AT,heimtextilien,n/a,1.12
+AT,esszimmertische,zubehör,1.1
+AT,küche,küche,1.09
+AT,polster,n/a,1.08
+AT,büro,schreibtische,1.06
+AT,esszimmerstühle&bänke,esszimmerstühle,1.07
+AT,kinder,komplettprogramme & sets,1.08
+AT,bad,waschtische,1.1
+AT,betten,himmelbetten,1.12
+AT,heimtextilien,bettlaken,1.12
+AT,heimtextilien,gardinen & vorhänge,1.12
+AT,teppiche & bodenbeläge,outdoor-teppiche,1.09
+AT,haushalt,küchenhelfer,1.02
+BE,teppiche & bodenbeläge,fuß- & sauberlaufmatten,1.15
+BE,polster,zubehör,1.06
+BE,büro,büro-komplettsets,1.12
+BE,kinder,betten & zubehör,1.11
+BE,büro,schreibtische,1.12
+BE,bad,badschränke,1.1
+BE,kinder,tische & zubehör,1.11
+BE,bad,waschtische,1.1
+BE,boutique,saisonartikel weihnachten,1.19
+BE,heimtextilien,bettlaken,1.14
+BE,haushalt,barzubehör,1.12
+BE,baby,schränke,1.12
+BE,teppiche & bodenbeläge,outdoor-teppiche,1.15
+BE,schlafzimmermöbel,kleiderschränke & zubehör,1.1
+BE,esszimmerstühle&bänke,bänke,1.07
+BE,betten,boxspringbetten,1.1
+BE,esszimmertische,zubehör,1.07
+BE,polster,sitzwürfel & polsterhocker,1.06
+BE,polster,n/a,1.06
+BE,esszimmerstühle&bänke,esszimmerstühle,1.07
+BE,betten,gästebetten,1.1
+BE,betten,himmelbetten,1.1
+BE,haushalt,küchenhelfer,1.12
+BE,küche,küche,1.12
+BE,flurmöbel,n/a,1.1
+BE,garten,garten loungemöbel,1.08
+BE,heimtextilien,gardinen & vorhänge,1.14
+BE,matratzen&lattenroste,matratzen,1.1
+BE,schlafzimmermöbel,schlafzimmersets,1.1
+BE,polster,relaxliegen,1.06
+BE,esszimmerstühle&bänke,n/a,1.07
+BE,leuchten,zubehör,1.1
+BE,büro,n/a,1.12
+BE,kinder,komplettprogramme & sets,1.11
+BE,polster,wohnlandschaften,1.06
+BE,schlafzimmermöbel,schminktische,1.1
+BE,schlafzimmermöbel,kommoden,1.1
+BE,teppiche & bodenbeläge,n/a,1.15
+BE,boutique,dekoration,1.19
+BE,flurmöbel,schuhschränke,1.1
+BE,esszimmerstühle&bänke,barhocker,1.07
+BE,polster,schlafsofas,1.06
+BE,esszimmertische,essgruppen,1.07
+BE,polster,polstergarnituren & sets,1.06
+BE,flurmöbel,garderoben,1.1
+BE,garten,gartenstühle,1.08
+BE,polster,sessel,1.06
+BE,kinder,schränke & zubehör,1.11
+BE,heimtextilien,tagesdecken & plaids,1.14
+BE,heimtextilien,duschvorhänge,1.14
+BE,esszimmertische,bar,1.07
+BE,boutique,duftartikel,1.19
+BE,wohnen,kommoden & sideboards,1.1
+BE,heimtextilien,tischwäsche,1.14
+BE,kinder,nachttische,1.11
+BE,wohnen,regale,1.1
+BE,heimtextilien,kissen,1.14
+BE,polster,recamieren,1.06
+BE,kinder,sitzgelegenheiten,1.11
+BE,wohnen,vitrinen & schränke,1.1
+BE,garten,gartenzubehör,1.08
+BE,baby,n/a,1.12
+BE,esszimmertische,bartische,1.07
+BE,büro,sekretäre,1.12
+BE,wohnen,tv-mediamöbel,1.1
+BE,haushalt,geschirr,1.12
+BE,teppiche & bodenbeläge,wollteppiche,1.15
+BE,heimtextilien,n/a,1.14
+BE,betten,zubehör,1.1
+BE,boutique,wandekoration,1.19
+BE,bad,n/a,1.1
+BE,heimtextilien,handtücher,1.14
+BE,bad,badset,1.1
+BE,teppiche & bodenbeläge,fellteppiche,1.15
+BE,boutique,gartenaccessoires,1.19
+BE,baby,komplettprogramme & sets,1.12
+BE,wohnen,tische,1.1
+BE,polster,bigsofas,1.06
+BE,polster,einzelsofas,1.06
+BE,baby,wickelkommoden & zubehör,1.12
+BE,haushalt,küchenutensilien,1.12
+BE,heimtextilien,bettwäsche,1.14
+BE,teppiche & bodenbeläge,hochflorteppiche & shaggys,1.15
+BE,leuchten,außenleuchten,1.1
+BE,betten,bettgestelle,1.1
+BE,haushalt,mülleimer,1.12
+BE,bad,spiegel,1.1
+BE,baby,regale,1.12
+BE,schlafzimmermöbel,n/a,1.1
+BE,matratzen&lattenroste,lattenroste,1.1
+BE,boutique,aufbewahrung,1.19
+BE,kinder,regale,1.11
+BE,teppiche & bodenbeläge,läufer,1.15
+BE,teppiche & bodenbeläge,kinderteppiche,1.15
+BE,boutique,badaccessoires,1.19
+BE,teppiche & bodenbeläge,kurzflorteppiche,1.15
+BE,baby,betten,1.12
+BE,esszimmertische,esstische,1.07
+BE,schlafzimmermöbel,nachtkommoden,1.1
+BE,haushalt,küchenaufbewahrung,1.12
+BE,garten,bänke & hocker,1.08
+BE,haushalt,gläser,1.12
+BE,kinder,aufbewahrung,1.11
+BE,bad,badregale,1.1
+BE,heimtextilien,badematten & badteppiche,1.14
+BE,büro,büroschränke,1.12
+BE,esszimmertische,buffets,1.07
+BE,büro,bürostühle,1.12
+BE,schlafzimmermöbel,bettbänke&betttruhen,1.1
+BE,heimtextilien,bettdecken & kopfkissen,1.14
+BE,garten,komplettprogramme & sets,1.08
+BE,leuchten,innenleuchten,1.1
+BE,polster,ecksofas,1.06
+BE,haushalt,kannen & krüge,1.12
+BE,matratzen&lattenroste,matratzentopper,1.1
+BE,kinder,kommoden,1.11
+BE,wohnen,kamine,1.1
+BE,garten,gartenliege,1.08
+BE,garten,gartentische,1.08
+CH,kinder,regale,1.39
+CH,matratzen&lattenroste,lattenroste,1.42
+CH,teppiche & bodenbeläge,kinderteppiche,1.4
+CH,polster,bigsofas,1.35
+CH,kinder,aufbewahrung,1.39
+CH,boutique,aufbewahrung,1.42
+CH,garten,komplettprogramme & sets,1.32
+CH,bad,badregale,1.45
+CH,wohnen,kamine,1.35
+CH,garten,gartenliege,1.32
+CH,schlafzimmermöbel,bettbänke&betttruhen,1.35
+CH,polster,recamieren,1.35
+CH,esszimmertische,esstische,1.32
+CH,matratzen&lattenroste,matratzentopper,1.42
+CH,kinder,n/a,1.39
+CH,flurmöbel,schuhschränke,1.35
+CH,garten,bänke & hocker,1.32
+CH,schlafzimmermöbel,schminktische,1.35
+CH,bad,badset,1.45
+CH,wohnen,tv-mediamöbel,1.35
+CH,wohnen,kommoden & sideboards,1.35
+CH,baby,komplettprogramme & sets,1.42
+CH,schlafzimmermöbel,nachtkommoden,1.35
+CH,kinder,kommoden,1.39
+CH,esszimmerstühle&bänke,barhocker,1.38
+CH,baby,schränke,1.42
+CH,teppiche & bodenbeläge,outdoor-teppiche,1.4
+CH,esszimmertische,bartische,1.32
+CH,büro,büroschränke,1.43
+CH,küche,küche,1.32
+CH,büro,schreibtische,1.43
+CH,büro,bürostühle,1.43
+CH,esszimmertische,buffets,1.32
+CH,bad,waschtische,1.45
+CH,schlafzimmermöbel,n/a,1.35
+CH,kinder,betten & zubehör,1.39
+CH,kinder,nachttische,1.39
+CH,baby,regale,1.42
+CH,baby,n/a,1.42
+CH,teppiche & bodenbeläge,wollteppiche,1.4
+CH,polster,n/a,1.35
+CH,wohnen,tische,1.35
+CH,schlafzimmermöbel,kommoden,1.35
+CH,büro,n/a,1.43
+CH,polster,sitzwürfel & polsterhocker,1.35
+CH,betten,boxspringbetten,1.35
+CH,heimtextilien,gardinen & vorhänge,1.39
+CH,polster,sessel,1.35
+CH,bad,spiegel,1.45
+CH,matratzen&lattenroste,matratzen,1.42
+CH,schlafzimmermöbel,kleiderschränke & zubehör,1.35
+CH,esszimmertische,zubehör,1.32
+CH,esszimmerstühle&bänke,esszimmerstühle,1.38
+CH,teppiche & bodenbeläge,kurzflorteppiche,1.4
+CH,kinder,komplettprogramme & sets,1.39
+CH,leuchten,zubehör,1.32
+CH,heimtextilien,badematten & badteppiche,1.39
+CH,garten,gartentische,1.32
+CH,esszimmertische,essgruppen,1.32
+CH,garten,gartenstühle,1.32
+CH,boutique,badaccessoires,1.42
+CH,leuchten,innenleuchten,1.32
+CH,kinder,tische & zubehör,1.39
+CH,kinder,schränke & zubehör,1.39
+CH,esszimmerstühle&bänke,n/a,1.38
+CH,bad,badschränke,1.45
+CH,baby,betten,1.42
+CH,polster,ecksofas,1.35
+CH,boutique,dekoration,1.42
+CH,esszimmertische,bar,1.32
+CH,polster,schlafsofas,1.35
+CH,polster,polstergarnituren & sets,1.35
+CH,haushalt,küchenutensilien,1.4
+CH,flurmöbel,garderoben,1.35
+CH,heimtextilien,kissen,1.39
+CH,betten,zubehör,1.35
+CH,büro,büro-komplettsets,1.43
+CH,garten,gartenzubehör,1.32
+CH,teppiche & bodenbeläge,fellteppiche,1.4
+CH,boutique,gartenaccessoires,1.42
+CH,heimtextilien,tischwäsche,1.39
+CH,heimtextilien,tagesdecken & plaids,1.39
+CH,boutique,wandekoration,1.42
+CH,kinder,sitzgelegenheiten,1.39
+CH,wohnen,vitrinen & schränke,1.35
+CH,leuchten,außenleuchten,1.32
+CH,garten,garten loungemöbel,1.32
+CH,wohnen,regale,1.35
+CH,heimtextilien,bettwäsche,1.39
+CH,betten,gästebetten,1.35
+CH,polster,relaxliegen,1.35
+CH,polster,wohnlandschaften,1.35
+CH,esszimmerstühle&bänke,bänke,1.38
+CH,teppiche & bodenbeläge,hochflorteppiche & shaggys,1.4
+CH,büro,sekretäre,1.43
+CH,betten,bettgestelle,1.35
+CH,polster,einzelsofas,1.35
+CH,baby,wickelkommoden & zubehör,1.42
+CH,schlafzimmermöbel,schlafzimmersets,1.35
+CH,polster,zubehör,1.35
+FR,baby,betten,1.1
+FR,baby,wickelkommoden & zubehör,1.1
+FR,baby,n/a,1.1
+FR,baby,komplettprogramme & sets,1.1
+FR,baby,regale,1.1
+FR,baby,schränke,1.1
+FR,bad,n/a,1.12
+FR,bad,badregale,1.12
+FR,bad,spiegel,1.12
+FR,bad,badset,1.12
+FR,bad,badschränke,1.12
+FR,bad,waschtische,1.12
+FR,betten,zubehör,1.05
+FR,betten,gästebetten,1.05
+FR,betten,bettgestelle,1.05
+FR,betten,boxspringbetten,1.05
+FR,betten,himmelbetten,1.05
+FR,boutique,badaccessoires,1.2
+FR,boutique,wandekoration,1.2
+FR,boutique,gartenaccessoires,1.2
+FR,boutique,aufbewahrung,1.2
+FR,boutique,n/a,1.2
+FR,boutique,dekoration,1.2
+FR,boutique,duftartikel,1.2
+FR,boutique,saisonartikel weihnachten,1.2
+FR,büro,bürostühle,1.1
+FR,büro,n/a,1.1
+FR,büro,sekretäre,1.1
+FR,büro,büroschränke,1.1
+FR,büro,büro-komplettsets,1.1
+FR,büro,schreibtische,1.1
+FR,esszimmerstühle&bänke,n/a,1.05
+FR,esszimmerstühle&bänke,bänke,1.05
+FR,esszimmerstühle&bänke,barhocker,1.05
+FR,esszimmerstühle&bänke,esszimmerstühle,1.05
+FR,esszimmertische,essgruppen,1.08
+FR,esszimmertische,bar,1.08
+FR,esszimmertische,n/a,1.08
+FR,esszimmertische,bartische,1.08
+FR,esszimmertische,esstische,1.08
+FR,esszimmertische,barset,1.08
+FR,esszimmertische,buffets,1.08
+FR,esszimmertische,zubehör,1.08
+FR,flurmöbel,garderoben,1.09
+FR,flurmöbel,schuhschränke,1.09
+FR,flurmöbel,n/a,1.09
+FR,garten,gartentische,1.11
+FR,garten,garten loungemöbel,1.11
+FR,garten,gartenzubehör,1.11
+FR,garten,gartenliege,1.11
+FR,garten,bänke & hocker,1.11
+FR,garten,komplettprogramme & sets,1.11
+FR,garten,gartenstühle,1.11
+FR,haushalt,küchenutensilien,1.15
+FR,haushalt,mülleimer,1.15
+FR,haushalt,kannen & krüge,1.15
+FR,haushalt,geschirr,1.15
+FR,haushalt,küchenaufbewahrung,1.15
+FR,haushalt,gläser,1.15
+FR,haushalt,barzubehör,1.15
+FR,haushalt,küchenhelfer,1.15
+FR,heimtextilien,badematten & badteppiche,1.15
+FR,heimtextilien,bettdecken & kopfkissen,1.15
+FR,heimtextilien,tagesdecken & plaids,1.15
+FR,heimtextilien,bettwäsche,1.15
+FR,heimtextilien,handtücher,1.15
+FR,heimtextilien,kissen,1.15
+FR,heimtextilien,tischwäsche,1.15
+FR,heimtextilien,duschvorhänge,1.15
+FR,heimtextilien,n/a,1.15
+FR,heimtextilien,bettlaken,1.15
+FR,heimtextilien,gardinen & vorhänge,1.15
+FR,kinder,schränke & zubehör,1.15
+FR,kinder,sitzgelegenheiten,1.15
+FR,kinder,kommoden,1.15
+FR,kinder,regale,1.15
+FR,kinder,betten & zubehör,1.15
+FR,kinder,aufbewahrung,1.15
+FR,kinder,nachttische,1.15
+FR,kinder,tische & zubehör,1.15
+FR,kinder,n/a,1.15
+FR,kinder,komplettprogramme & sets,1.15
+FR,küche,küche,1.07
+FR,leuchten,innenleuchten,1.1
+FR,leuchten,außenleuchten,1.1
+FR,leuchten,zubehör,1.1
+FR,matratzen&lattenroste,matratzen/lattenrost-sets,1.1
+FR,matratzen&lattenroste,matratzen,1.1
+FR,matratzen&lattenroste,matratzentopper,1.1
+FR,matratzen&lattenroste,lattenroste,1.1
+FR,polster,schlafsofas,1.1
+FR,polster,ecksofas,1.1
+FR,polster,polstergarnituren & sets,1.1
+FR,polster,relaxliegen,1.1
+FR,polster,wohnlandschaften,1.1
+FR,polster,sitzwürfel & polsterhocker,1.1
+FR,polster,einzelsofas,1.1
+FR,polster,zubehör,1.1
+FR,polster,recamieren,1.1
+FR,polster,bigsofas,1.1
+FR,polster,n/a,1.1
+FR,polster,sessel,1.1
+FR,schlafzimmermöbel,schlafzimmersets,1.14
+FR,schlafzimmermöbel,kleiderschränke & zubehör,1.14
+FR,schlafzimmermöbel,bettbänke&betttruhen,1.14
+FR,schlafzimmermöbel,nachtkommoden,1.14
+FR,schlafzimmermöbel,schminktische,1.14
+FR,schlafzimmermöbel,n/a,1.14
+FR,schlafzimmermöbel,kommoden,1.14
+FR,teppiche & bodenbeläge,n/a,1.09
+FR,teppiche & bodenbeläge,wollteppiche,1.09
+FR,teppiche & bodenbeläge,fellteppiche,1.09
+FR,teppiche & bodenbeläge,hochflorteppiche & shaggys,1.09
+FR,teppiche & bodenbeläge,läufer,1.09
+FR,teppiche & bodenbeläge,kurzflorteppiche,1.09
+FR,teppiche & bodenbeläge,kinderteppiche,1.09
+FR,teppiche & bodenbeläge,fuß- & sauberlaufmatten,1.09
+FR,teppiche & bodenbeläge,outdoor-teppiche,1.09
+FR,wohnen,n/a,1.07
+FR,wohnen,spiegel,1.07
+FR,wohnen,regale,1.07
+FR,wohnen,tv-mediamöbel,1.07
+FR,wohnen,vitrinen & schränke,1.07
+FR,wohnen,kommoden & sideboards,1.07
+FR,wohnen,kamine,1.07
+FR,wohnen,tische,1.07
+IT,heimtextilien,tischwäsche,1.15
+IT,bad,waschtische,1.07
+IT,küche,küche,1.07
+IT,betten,himmelbetten,1.04
+IT,baby,schränke,1.15
+IT,heimtextilien,bettlaken,1.15
+IT,teppiche & bodenbeläge,outdoor-teppiche,1.11
+IT,büro,schreibtische,1.07
+IT,büro,büro-komplettsets,1.07
+IT,esszimmertische,buffets,1.06
+IT,büro,büroschränke,1.07
+IT,betten,gästebetten,1.04
+IT,garten,garten loungemöbel,1.15
+IT,baby,regale,1.15
+IT,flurmöbel,n/a,1.09
+IT,kinder,betten & zubehör,1.15
+IT,polster,sitzwürfel & polsterhocker,1.07
+IT,esszimmerstühle&bänke,bänke,1.07
+IT,teppiche & bodenbeläge,fuß- & sauberlaufmatten,1.11
+IT,schlafzimmermöbel,n/a,1.07
+IT,polster,sessel,1.07
+IT,leuchten,zubehör,1.15
+IT,schlafzimmermöbel,kommoden,1.07
+IT,kinder,komplettprogramme & sets,1.15
+IT,heimtextilien,gardinen & vorhänge,1.15
+IT,büro,n/a,1.07
+IT,esszimmerstühle&bänke,esszimmerstühle,1.07
+IT,matratzen&lattenroste,matratzen,1.04
+IT,esszimmertische,zubehör,1.06
+IT,heimtextilien,duschvorhänge,1.15
+IT,esszimmertische,bar,1.06
+IT,wohnen,kommoden & sideboards,1.07
+IT,esszimmerstühle&bänke,n/a,1.07
+IT,schlafzimmermöbel,schminktische,1.07
+IT,esszimmerstühle&bänke,barhocker,1.07
+IT,polster,schlafsofas,1.07
+IT,boutique,dekoration,1.15
+IT,esszimmertische,essgruppen,1.06
+IT,flurmöbel,schuhschränke,1.09
+IT,bad,badschränke,1.07
+IT,kinder,tische & zubehör,1.15
+IT,garten,gartenstühle,1.15
+IT,kinder,schränke & zubehör,1.15
+IT,haushalt,geschirr,1.15
+IT,boutique,wandekoration,1.15
+IT,esszimmertische,n/a,1.06
+IT,esszimmertische,bartische,1.06
+IT,teppiche & bodenbeläge,fellteppiche,1.11
+IT,wohnen,vitrinen & schränke,1.07
+IT,heimtextilien,tagesdecken & plaids,1.15
+IT,kinder,sitzgelegenheiten,1.15
+IT,matratzen&lattenroste,matratzen/lattenrost-sets,1.04
+IT,garten,gartenzubehör,1.15
+IT,heimtextilien,kissen,1.15
+IT,flurmöbel,garderoben,1.09
+IT,büro,bürostühle,1.07
+IT,polster,polstergarnituren & sets,1.07
+IT,betten,zubehör,1.04
+IT,heimtextilien,bettwäsche,1.15
+IT,polster,wohnlandschaften,1.07
+IT,polster,einzelsofas,1.07
+IT,wohnen,tische,1.07
+IT,teppiche & bodenbeläge,hochflorteppiche & shaggys,1.11
+IT,baby,wickelkommoden & zubehör,1.15
+IT,betten,bettgestelle,1.04
+IT,haushalt,mülleimer,1.15
+IT,schlafzimmermöbel,schlafzimmersets,1.07
+IT,leuchten,außenleuchten,1.15
+IT,wohnen,regale,1.07
+IT,teppiche & bodenbeläge,wollteppiche,1.11
+IT,polster,relaxliegen,1.07
+IT,büro,sekretäre,1.07
+IT,teppiche & bodenbeläge,kurzflorteppiche,1.11
+IT,garten,komplettprogramme & sets,1.15
+IT,boutique,aufbewahrung,1.15
+IT,teppiche & bodenbeläge,kinderteppiche,1.11
+IT,kinder,regale,1.15
+IT,bad,badregale,1.07
+IT,schlafzimmermöbel,kleiderschränke & zubehör,1.07
+IT,kinder,aufbewahrung,1.15
+IT,betten,boxspringbetten,1.04
+IT,matratzen&lattenroste,lattenroste,1.04
+IT,polster,bigsofas,1.07
+IT,bad,spiegel,1.07
+IT,matratzen&lattenroste,matratzentopper,1.04
+IT,heimtextilien,bettdecken & kopfkissen,1.15
+IT,bad,badset,1.07
+IT,baby,komplettprogramme & sets,1.15
+IT,heimtextilien,handtücher,1.15
+IT,polster,ecksofas,1.07
+IT,wohnen,kamine,1.07
+IT,schlafzimmermöbel,nachtkommoden,1.07
+IT,schlafzimmermöbel,bettbänke&betttruhen,1.07
+IT,boutique,badaccessoires,1.15
+IT,baby,betten,1.15
+IT,leuchten,innenleuchten,1.15
+IT,teppiche & bodenbeläge,läufer,1.11
+IT,polster,recamieren,1.07
+IT,esszimmertische,esstische,1.06
+IT,garten,gartenliege,1.15
+IT,garten,gartentische,1.15
+IT,wohnen,tv-mediamöbel,1.07
+IT,garten,bänke & hocker,1.15
+IT,heimtextilien,badematten & badteppiche,1.15
+NL,kinder,aufbewahrung,1.11
+NL,teppiche & bodenbeläge,hochflorteppiche & shaggys,1.15
+NL,polster,bigsofas,1.06
+NL,wohnen,tische,1.1
+NL,kinder,kommoden,1.11
+NL,garten,komplettprogramme & sets,1.08
+NL,bad,badregale,1.1
+NL,polster,einzelsofas,1.06
+NL,matratzen&lattenroste,matratzentopper,1.1
+NL,heimtextilien,bettwäsche,1.14
+NL,esszimmertische,esstische,1.07
+NL,baby,komplettprogramme & sets,1.12
+NL,wohnen,vitrinen & schränke,1.1
+NL,flurmöbel,schuhschränke,1.1
+NL,esszimmerstühle&bänke,barhocker,1.07
+NL,wohnen,tv-mediamöbel,1.1
+NL,schlafzimmermöbel,schminktische,1.1
+NL,boutique,wandekoration,1.19
+NL,teppiche & bodenbeläge,kinderteppiche,1.15
+NL,kinder,n/a,1.11
+NL,heimtextilien,handtücher,1.14
+NL,kinder,regale,1.11
+NL,matratzen&lattenroste,lattenroste,1.1
+NL,haushalt,küchenaufbewahrung,1.12
+NL,bad,badset,1.1
+NL,heimtextilien,kissen,1.14
+NL,polster,recamieren,1.06
+NL,esszimmertische,barset,1.07
+NL,garten,gartenliege,1.08
+NL,polster,n/a,1.06
+NL,büro,bürostühle,1.12
+NL,büro,schreibtische,1.12
+NL,haushalt,gläser,1.12
+NL,garten,bänke & hocker,1.08
+NL,büro,büroschränke,1.12
+NL,esszimmertische,buffets,1.07
+NL,schlafzimmermöbel,nachtkommoden,1.1
+NL,haushalt,kannen & krüge,1.12
+NL,schlafzimmermöbel,bettbänke&betttruhen,1.1
+NL,baby,betten,1.12
+NL,leuchten,innenleuchten,1.1
+NL,betten,himmelbetten,1.1
+NL,wohnen,kamine,1.1
+NL,küche,küche,1.12
+NL,teppiche & bodenbeläge,outdoor-teppiche,1.15
+NL,garten,gartentische,1.08
+NL,teppiche & bodenbeläge,wollteppiche,1.15
+NL,baby,n/a,1.12
+NL,esszimmertische,bartische,1.07
+NL,kinder,betten & zubehör,1.11
+NL,schlafzimmermöbel,n/a,1.1
+NL,haushalt,barzubehör,1.12
+NL,matratzen&lattenroste,matratzen/lattenrost-sets,1.1
+NL,baby,regale,1.12
+NL,flurmöbel,n/a,1.1
+NL,heimtextilien,n/a,1.14
+NL,boutique,aufbewahrung,1.19
+NL,baby,schränke,1.12
+NL,kinder,nachttische,1.11
+NL,esszimmerstühle&bänke,bänke,1.07
+NL,esszimmerstühle&bänke,esszimmerstühle,1.07
+NL,esszimmertische,zubehör,1.07
+NL,heimtextilien,duschvorhänge,1.14
+NL,boutique,dekoration,1.19
+NL,leuchten,zubehör,1.1
+NL,polster,sitzwürfel & polsterhocker,1.06
+NL,garten,gartenstühle,1.08
+NL,heimtextilien,gardinen & vorhänge,1.14
+NL,betten,boxspringbetten,1.1
+NL,garten,garten loungemöbel,1.08
+NL,haushalt,küchenhelfer,1.12
+NL,teppiche & bodenbeläge,kurzflorteppiche,1.15
+NL,schlafzimmermöbel,kleiderschränke & zubehör,1.1
+NL,polster,sessel,1.06
+NL,bad,spiegel,1.1
+NL,heimtextilien,bettdecken & kopfkissen,1.14
+NL,bad,badschränke,1.1
+NL,esszimmertische,essgruppen,1.07
+NL,teppiche & bodenbeläge,n/a,1.15
+NL,bad,waschtische,1.1
+NL,esszimmerstühle&bänke,n/a,1.07
+NL,schlafzimmermöbel,kommoden,1.1
+NL,kinder,tische & zubehör,1.11
+NL,polster,ecksofas,1.06
+NL,kinder,komplettprogramme & sets,1.11
+NL,heimtextilien,badematten & badteppiche,1.14
+NL,boutique,saisonartikel weihnachten,1.19
+NL,boutique,duftartikel,1.19
+NL,boutique,badaccessoires,1.19
+NL,teppiche & bodenbeläge,läufer,1.15
+NL,heimtextilien,bettlaken,1.14
+NL,haushalt,mülleimer,1.12
+NL,esszimmertische,bar,1.07
+NL,polster,schlafsofas,1.06
+NL,wohnen,n/a,1.1
+NL,flurmöbel,garderoben,1.1
+NL,haushalt,küchenutensilien,1.12
+NL,boutique,n/a,1.19
+NL,heimtextilien,tagesdecken & plaids,1.14
+NL,polster,polstergarnituren & sets,1.06
+NL,kinder,schränke & zubehör,1.11
+NL,wohnen,spiegel,1.1
+NL,garten,gartenzubehör,1.08
+NL,wohnen,kommoden & sideboards,1.1
+NL,heimtextilien,tischwäsche,1.14
+NL,esszimmertische,n/a,1.07
+NL,teppiche & bodenbeläge,fellteppiche,1.15
+NL,leuchten,außenleuchten,1.1
+NL,boutique,gartenaccessoires,1.19
+NL,polster,zubehör,1.06
+NL,büro,büro-komplettsets,1.12
+NL,teppiche & bodenbeläge,fuß- & sauberlaufmatten,1.15
+NL,polster,relaxliegen,1.06
+NL,büro,sekretäre,1.12
+NL,betten,bettgestelle,1.1
+NL,matratzen&lattenroste,matratzen,1.1
+NL,kinder,sitzgelegenheiten,1.11
+NL,haushalt,geschirr,1.12
+NL,schlafzimmermöbel,schlafzimmersets,1.1
+NL,büro,n/a,1.12
+NL,betten,zubehör,1.1
+NL,baby,wickelkommoden & zubehör,1.12
+NL,bad,n/a,1.1
+NL,polster,wohnlandschaften,1.06
+NL,wohnen,regale,1.1
+NL,betten,gästebetten,1.1
