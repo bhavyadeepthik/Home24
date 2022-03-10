@@ -1,7 +1,11 @@
 # Home24
 ## Case Study
+### Business analysis based on data provided 
 1)Given the differences between the “Old” and “New” multipliers;
 a) Can you please reason what could be the drivers for these differences? 
+
+Acoording to the data provided when analysis made i observe the wide range of oppurtunity in the baby category to increase the price  in countries CH, FR and NL. 
+
 
 
 
